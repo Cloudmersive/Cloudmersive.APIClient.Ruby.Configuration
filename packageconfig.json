@@ -2,7 +2,7 @@
 
   "gemName" : "cloudmersive-configuration-api-client",
   "gemLicense": "Apache 2.0",
-  "gemVersion": "1.7.2",
+  "gemVersion": "2.0.1",
   "gemHomepage": "https://www.cloudmersive.com/convert-api",
   "gemSummary": "Cloudmersive Configuration API lets you effortlessly roll out configuration and orchestration across your applications.",
   "gemDescription": "Share configuration and orchestrate API calls.",
